@@ -1,0 +1,6 @@
+baseURL = "/"
+title = "Test Site"
+languageCode = "en-us"
+relativeURLs = true
+theme = "mytheme"
+uglyURLs = true
